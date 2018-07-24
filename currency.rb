@@ -57,3 +57,5 @@ def aud_to_usd(amount)
   total = amount *3
   return total
 end
+
+else 
