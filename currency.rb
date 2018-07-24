@@ -27,7 +27,8 @@ when 2
 def eur_to_usd(amount)
   total = amount / 1.2
   return total
-end 3
+end 
+when 3
 def usd_to_jpy(amount)
   total = amount *3
   return total
