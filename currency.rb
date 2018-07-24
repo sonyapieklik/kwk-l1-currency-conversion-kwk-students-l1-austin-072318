@@ -58,4 +58,6 @@ def aud_to_usd(amount)
   return total
 end
 
-else 
+else puts "Invalid input, exiting..."
+end
+ 
