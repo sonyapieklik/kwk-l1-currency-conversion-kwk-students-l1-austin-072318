@@ -23,37 +23,36 @@ when 1
   total = amount * 1.2
   return total
 end
-
+when 2
 def eur_to_usd(amount)
   total = amount / 1.2
   return total
-end
-when 2
+end 3
 def usd_to jpy(amount)
   total = amount *3
   return total
 end
-when 3
+when 4
 def usd_to_gbp(amount)
   total = amount *3
   return total
 end
-when 4
+when 5
 def usd_to_aud(amount)
   total = amount *3
   return total
 end
-when 5
+when 6
 def jpy_to_usd(amount)
   total = amount *3
   return total
 end
-when 6
+when 7
 def gbp_to_usd(amount)
   total = amount *3
   return total
 end
-when 7
+when 8
 def aud_to_usd(amount)
   total = amount *3
   return total
