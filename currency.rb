@@ -29,12 +29,12 @@ def eur_to_usd(amount)
   return total
 end 
 when 3
-def usd_to_jpy(amount)
+def usd_to_gbp(amount)
   total = amount *3
   return total
 end
 when 4
-def usd_to_gbp(amount)
+def usd_to_aud(amount)
   total = amount *3
   return total
 end
